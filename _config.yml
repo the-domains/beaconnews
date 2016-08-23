@@ -1,28 +1,40 @@
-name: BeaconNews
-favicon: null
-layout_spectrum: 0.4802059615030885
-typography_spectrum: 0.9651180487126112
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8599080943968147
+  brandStrength: 1
+  lightness: 0.3487959706690162
+  brandColors:
+    - '#101825'
+    - '#4B8AD9'
+    - '#FFF5D9'
+    - '#5B544A'
+    - '#AEADAB'
+  rhythmicContrast: 0.9811508189886808
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
+name: BeaconNews
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0
-  lightness: 0.34879597066901624
-  saturation: 0.8599080943968147
-  rhythmicContrast: 0.9811508189886808
-purpose: []
+typography_spectrum: 0.9651180487126112
+layout_spectrum: 0.7468085
