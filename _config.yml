@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  email: newsbeaconny@gmail.com
+  url: newsbeaconny.com
+  name: Beacon News
 name: BeaconNews
 cta:
   bucket: null
