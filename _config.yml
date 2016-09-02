@@ -1,27 +1,33 @@
-purpose: []
+typography_spectrum: 0.9651180487126112
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.7468085
 color:
   saturation: 0.8599080943968147
   brandStrength: 1
-  lightness: 0.3487959706690162
+  rhythmicContrast: 0.9811508189886808
   brandColors:
     - '#101825'
     - '#4B8AD9'
     - '#FFF5D9'
     - '#5B544A'
     - '#AEADAB'
-  rhythmicContrast: 0.9811508189886808
+  lightness: 0.3487959706690162
+purpose: []
 cta:
   bucket: null
   version: null
@@ -32,9 +38,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9651180487126112
-layout_spectrum: 0.7468085
