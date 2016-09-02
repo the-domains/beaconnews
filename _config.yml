@@ -1,8 +1,30 @@
 typography_spectrum: 0.9651180487126112
+color:
+  saturation: 0.8599080943968147
+  brandStrength: 1
+  rhythmicContrast: 0.9811508189886808
+  brandColors:
+    - '#101825'
+    - '#4B8AD9'
+    - '#FFF5D9'
+    - '#5B544A'
+    - '#AEADAB'
+  lightness: 0.3487959706690162
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7468085
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: BeaconNews
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,26 +37,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.7468085
-color:
-  saturation: 0.8599080943968147
-  brandStrength: 1
-  rhythmicContrast: 0.9811508189886808
-  brandColors:
-    - '#101825'
-    - '#4B8AD9'
-    - '#FFF5D9'
-    - '#5B544A'
-    - '#AEADAB'
-  lightness: 0.3487959706690162
 purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: BeaconNews
-analytics:
-  twitter: null
-  google: null
-  facebook: null
