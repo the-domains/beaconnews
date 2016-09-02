@@ -42,5 +42,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Beacon News
-description: The place to find the most current News
+description: The place to find out whats going on in Beacon
 purpose: []
