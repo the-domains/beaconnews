@@ -37,4 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Your Beacon News Source
 purpose: []
